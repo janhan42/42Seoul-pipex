@@ -6,7 +6,7 @@
 /*   By: janhan <janhan@student.42seoul.kr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/11 15:21:53 by janhan            #+#    #+#             */
-/*   Updated: 2023/12/12 14:07:35 by janhan           ###   ########.fr       */
+/*   Updated: 2023/12/14 10:38:28 by janhan           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,7 +45,6 @@ void	ft_putchar(const char c);
 void	ft_putstr(const char *str);
 
 /*========= pipex alt utils =========*/
-void	ft_exit_msg(char *str);
 void	ft_free_tab(char **str);
 void	ft_free_info(t_info *info);
 char	**ft_parsing_cmd(const char *cmd);

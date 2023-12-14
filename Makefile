@@ -6,7 +6,7 @@
 #    By: janhan <janhan@student.42seoul.kr>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/11 15:17:47 by janhan            #+#    #+#              #
-#    Updated: 2023/12/12 14:10:51 by janhan           ###   ########.fr        #
+#    Updated: 2023/12/14 10:38:41 by janhan           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -21,7 +21,6 @@ SRCS =			srcs/pipex.c \
 				srcs/ft_get_path.c \
 				srcs/ft_free_tab.c \
 				srcs/ft_free_info.c \
-				srcs/ft_exit_msg.c \
 				srcs/ft_putchar.c \
 				srcs/ft_putstr.c
 LIBFT = libft.a
